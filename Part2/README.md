@@ -42,6 +42,7 @@ In this step, we will connect a javascript file to our HTML.
         <section><span>A</span><span>♥</span><span>A</span></section>
         <section><span>A</span><span>♠</span><span>A</span></section>
     </main>
+    <input id=''>
     <script src="./index.js"></script>
 </body>
 </html>

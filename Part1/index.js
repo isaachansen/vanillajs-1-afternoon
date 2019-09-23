@@ -71,5 +71,5 @@ if (topLeft !== undefined && topLeft === topCenter && topLeft === topRight) {
   }
 
 
-}
+};
 
