@@ -70,6 +70,12 @@ if (topLeft !== undefined && topLeft === topCenter && topLeft === topRight) {
       alert("Cat's Game! No Winners!")
   }
 
+}
 
-};
+let rows = document.getElementsByTagName('td');
 
+function reset () {
+  for(let i = 0; i <= 8; i++) {
+    rows[i].innerHTML = ''
+  }
+}
